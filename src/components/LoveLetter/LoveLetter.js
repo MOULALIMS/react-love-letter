@@ -35,10 +35,10 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        U meant a lot nana❤️,<br />
-        Never even dreamed malli kalustam ani close avtam ani, but ur always special for me nana...<br />Missed u alot :)<br />
-        always with you ,<br />
-        @Mr.Mike
+        Hello Everyone,<br />
+        Hoping Everyone is Fine.<br />Be Happy & Be Safe :)<br />
+        For You Well Being,<br />
+        @Dr. MS
       </div>
       <audio ref={audioRef} src={audioFile} onError={(e) => console.error('Audio error:', e.message)} />
     </div>
