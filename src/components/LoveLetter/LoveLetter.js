@@ -35,7 +35,7 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        I Love You nana❤️,<br />
+        U meant a lot nana❤️,<br />
         Never even dreamed malli kalustam ani close avtam ani, but ur always special for me nana...<br />Missed u alot :)<br />
         always with you ,<br />
         @Mr.Mike
