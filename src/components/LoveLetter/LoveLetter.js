@@ -36,9 +36,9 @@ const LoveLetter = () => {
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
         I Love You nana❤️,<br />
-        Since the day we met, Till the day we Talk, End of the Day we worship...<br />Always loving you even in worst phase:)<br />
-        always wanted to be with you ,<br />
-        @Mr. Mike
+        Never even dreamed malli kalustam ani close avtam ani, but ur always special for me nana...<br />Missed u alot :)<br />
+        always with you ,<br />
+        @Mr.Mike
       </div>
       <audio ref={audioRef} src={audioFile} onError={(e) => console.error('Audio error:', e.message)} />
     </div>
